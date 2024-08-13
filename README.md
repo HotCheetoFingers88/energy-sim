@@ -8,7 +8,7 @@
 * Core Systems:
   * Solar power, wind power, hydroelectric power
 
-###Research and Planning
+### Research and Planning
 * **Formulas:**
   * Solar Energy: 
     * To calculate the kWh produced by a solar panel, we need to know its wattage and the amount of sunlight it receives. Here's an example: Let's say you have a 300-watt solar panel 
@@ -49,7 +49,7 @@
     * NASA power project maybe combined with OpenStreetMap (with SRTM data)
   * Energy System Specifications: make customizable 
 
-###Dev Environment
+### Dev Environment
 * Programming Language: Python
 * IDE: VS Code
 * Version Control: Git repository
@@ -62,7 +62,7 @@
   * venv or conda (virtual environment)
   * Github for free domain - look into 
 
-###System Architecture
+### System Architecture
 * Backend Logic
   * Create classes or modules for each energy system (Solar, Wind, Hydro).
   * Each class should handle inputs (e.g., panel area, wind speed) and perform calculations based on the energy production formulas

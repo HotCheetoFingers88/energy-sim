@@ -1,5 +1,6 @@
 # Renewable Energy System Simulator
 
+
 ### Project Scope
 * Objective:
   * Create a tool to simulate the energy output of different renewable energy systems based on user inputs like location and system specifications
@@ -7,6 +8,7 @@
   * Potential users include students, researchers, project planners, or anyone interested in renewable energy
 * Core Systems:
   * Solar power, wind power, hydroelectric power
+
 
 ### Research and Planning
 * **Formulas:**
@@ -49,6 +51,7 @@
     * NASA power project maybe combined with OpenStreetMap (with SRTM data)
   * Energy System Specifications: make customizable 
 
+
 ### Dev Environment
 * Programming Language: Python
 * IDE: VS Code
@@ -61,6 +64,7 @@
   * Flask (for web development if applicable)
   * venv or conda (virtual environment)
   * Github for free domain - look into 
+
 
 ### System Architecture
 * Backend Logic

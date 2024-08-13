@@ -1,6 +1,6 @@
 # Renewable Energy System Simulator
 
-###Project Scope
+### Project Scope
 * Objective:
   * Create a tool to simulate the energy output of different renewable energy systems based on user inputs like location and system specifications
 * End Users:
